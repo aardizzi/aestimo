@@ -12,6 +12,12 @@
 ######################
 Thumbs.db
 
+# IDE (PyCharm) generated files #
+######################
+.idea
+*.xml
+*.iml
+
 # Other #
 #########
 *.profile
